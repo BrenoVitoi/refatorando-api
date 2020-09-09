@@ -1,4 +1,8 @@
-# Workshop sobre refatoração
+# Workshop sobre refatoração - Labs-Pro Digital Innovation One - ***Nome original do projeto workshop-refatoracao***
+Renomear o projeto como (workshop-refatoracao) para obter as funcinalidades.
+
+Labs_Pro Refatorando código legado - Projeto Refatorando uma API HTTP de forma segura desenvolvida em Python
+
 
 Toda pessoa que trabalha com software já passou, ou vai passar, pela experiência de adicionar/alterar funcionalidades de um sistema que está no ar. Com isso ela se vê em contato com uma base de código existente, produzida por uma outra equipe.
 
